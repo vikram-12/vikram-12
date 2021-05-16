@@ -5,5 +5,5 @@
 - 💞️ I’m looking to projects and even jobs for development roles.
 - 📫 You can contact me through mail : vikrammohanty1221@gmail.com
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Linked In](https://www.linkedin.com/in/vikrammohanty12/)
+
