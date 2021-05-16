@@ -2,7 +2,7 @@
  
  
  
-![Alt Text](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
+![Alt Text](https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif)
 
   ## Hi There 👋
   # I’m [Vikram Mohanty](https://github.com/vikram-12)
