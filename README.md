@@ -13,9 +13,9 @@
    
   ## What do I do? 👀
   
-  #### Have cup of coffee
-  #### Brainstroam with the codes
-  #### And finally develop it into an application.
+  ### Have a cup of coffee
+  ### Brainstroam with the codes
+  ### And finally develop it into an application.
   
 - 🌱 I’m currently persuing Computer Science and Communication engineering at KIIT University
 - 💞️ I’m looking for projects and even jobs for development roles.
