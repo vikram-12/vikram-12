@@ -2,7 +2,7 @@
  
  
  
-![image](https://user-images.githubusercontent.com/53655438/118399228-cfe32500-b679-11eb-9abf-3ec2cf77b0cb.gif)
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fhello-gifs&psig=AOvVaw2DxE3-dVF6v7RsJVhmpEOk&ust=1621258537598000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiBgeuozvACFQAAAAAdAAAAABAD)
 
   ## Hi There 👋
   # I’m [Vikram Mohanty](https://github.com/vikram-12)
