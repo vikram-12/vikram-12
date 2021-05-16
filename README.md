@@ -5,5 +5,5 @@
 - 💞️ I’m looking to projects and even jobs for development roles.
 - 📫 You can contact me through mail : vikrammohanty1221@gmail.com
 
-![Linked In](https://www.linkedin.com/in/vikrammohanty12/)
+[LinkedIn](https://www.linkedin.com/in/vikrammohanty12/)
 
