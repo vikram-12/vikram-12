@@ -2,7 +2,7 @@
  
  
  
-![Alt Text](https://tenor.com/XK95.gif)
+![Alt Text](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
 
   ## Hi There 👋
   # I’m [Vikram Mohanty](https://github.com/vikram-12)
