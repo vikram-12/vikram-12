@@ -2,7 +2,7 @@
  
  
  
-![image](https://user-images.githubusercontent.com/53655438/118399228-cfe32500-b679-11eb-9abf-3ec2cf77b0cb.png)
+![image](https://user-images.githubusercontent.com/53655438/118399228-cfe32500-b679-11eb-9abf-3ec2cf77b0cb.gif)
 
   ## Hi There 👋
   # I’m [Vikram Mohanty](https://github.com/vikram-12)
