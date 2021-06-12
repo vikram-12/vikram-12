@@ -9,7 +9,7 @@
      
   
   I am a developer. I develop both android and web application. <br/>
-  I have good knowledge of Android, Reactjs ,Cloud(GCP) , AI. <br/>
+  I have good knowledge of Android, Reactjs ,Node js,Cloud(GCP) , AI. <br/>
   I’m currently persuing Computer Science and Communication Engineering at KIIT University.
    
   ## What do I do? 👀
