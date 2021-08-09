@@ -7,15 +7,18 @@
   # I’m [Vikram Mohanty](https://github.com/vikram-12)
      
   
-  I am a developer. I develop both android and web application. <br/>
-  I have good knowledge of Android, Reactjs ,Node js,Cloud(GCP) , AI. <br/>
-  I’m currently persuing Computer Science and Communication Engineering at KIIT University.
+  I am a developer based in Bhubaneswar. <br/>
+  I’m currently persuing Computer Science and Communication Engineering at KIIT University. (Final Year)
    
-  ## What do I do? 👀
+  ## Skills 👀
   
-  ### Have a cup of coffee
-  ### Brainstroam with the codes
-  ### And finally develop it into an application.
+  -> React Js <br/>
+  -> Node Js <br/>
+  -> Next Js<br/>
+  -> Android Development<br/>
+  -> Python(ML , Open CV) <br/>
+  -> Javascript,Java,C,C++,Html,Css <br/>
+  
   
 
 - 💞️ I’m looking for projects and even jobs for development roles.
